@@ -10,7 +10,7 @@ VueJS is a JavaScript framework for building user interfaces. It builds on top o
 
 functionality of this app:
 
-This app has the ability load a local audio file from the device using html file input, render a waveform and add controls to play the audio.
+This app has the ability to load a local audio file from the device using html file input, render a waveform and add controls to play the audio.
 
 
 
