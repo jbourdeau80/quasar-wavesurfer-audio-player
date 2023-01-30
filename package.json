@@ -4,7 +4,7 @@
   "description": "A soundcloud-like audio player using quasar and wavesurfer",
   "productName": "Cool Player",
   "cordovaId": "org.cordova.quasar.app",
-  "author": "Johnny <syonip@gmail.com>",
+  "author": "Jennifer <jenniferbourdeau15@gmail.com>",
   "private": true,
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
